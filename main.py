@@ -5,8 +5,8 @@ import time
 
 CHROME_DRIVER_PATH = "/Users/surendraediga/Downloads/chromedriver"
 SIMILAR_ACCOUNT = "buzzfeedtasty"
-USERNAME = "surendraediga477"
-PASSWORD = "Surendra@123"
+USERNAME = "your username"
+PASSWORD = "your pass"
 
 
 class InstaFollower:
